@@ -1,0 +1,6 @@
+% generate problem of size 10
+
+reachable(X,Y) :- edge(X,Y).
+reachable(X,Y) :- edge(X,Z), reachable(Z,Y).
+same_clique(X,Y) :- reachable(X,Y), reachable(Y,X).
+%edge(X,Y):-edge(X,Y).

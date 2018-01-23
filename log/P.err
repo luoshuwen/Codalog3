@@ -1,0 +1,9 @@
+Warning: At line 4: wrong sentence order.
+At line 2: wrong fact used. Wrong constant symbol.
+At line 3: wrong sentence used, without '.'
+At line 5: wrong fact used. Wrong constant symbol.
+Warning: At line 4: unused facts.
+At line 3: wrong sentence used, without '.'
+At line 5: wrong fact used. Wrong constant symbol.
+Warning: At line 4: unused facts.
+At line 2: safety error.
